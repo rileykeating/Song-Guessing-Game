@@ -4,4 +4,4 @@ This repository contains the Song Guessing Game project.
 
 ## Instructions
 
-- Open `index.html` to play the game.
+- Open `index.html` to play the game
